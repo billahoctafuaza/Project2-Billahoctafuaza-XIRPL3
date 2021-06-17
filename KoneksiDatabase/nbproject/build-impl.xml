@@ -28,7 +28,7 @@ is divided into following sections:
     <!-- 
                 ======================
                 INITIALIZATION SECTION 
-                ======================
+                ====================== 
             -->
     <target name="-pre-init">
         <!-- Empty placeholder for easier customization. -->
