@@ -105,7 +105,7 @@ public class MenambahData extends javax.swing.JDialog {
         jScrollPane1 = new javax.swing.JScrollPane();
         jList1 = new javax.swing.JList<>();
         txtNIS = new javax.swing.JTextField();
-        jSeparator1 = new javax.swing.JSeparator();
+        jSeparator1 = new javax.swing.JSeparator(); 
         lblTitle = new javax.swing.JLabel();
         NIS = new javax.swing.JLabel();
         Nama = new javax.swing.JLabel();
